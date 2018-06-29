@@ -1,4 +1,4 @@
-# -Pixel-Art-Maker
+# Pixel-Art-Maker
 Project Name:
 Pixel-Art-Maker-Project
 
